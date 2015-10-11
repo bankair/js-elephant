@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bankair/js-elephant/issues"
   },
-  "homepage": "https://github.com/bankair/js-elephant#readme"
+  "homepage": "https://github.com/bankair/js-elephant#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
